@@ -1,12 +1,12 @@
 # 📦 OLTP-to-DWH | ETL Pipeline with Dimensional Data Modeling & Power BI Dashboard
 
-This project demonstrates the end-to-end process of transforming transactional (OLTP) sales data into a structured Data Warehouse (DWH) using **SQL Server Integration Services (SSIS)**, with dimensional modeling and insightful **Power BI** dashboards.
+This "FCAI | DWH-Course" project demonstrates the end-to-end process of transforming transactional (OLTP) sales data into a structured Data Warehouse (DWH) using **SQL Server Integration Services (SSIS)**, with dimensional modeling and insightful **Power BI** dashboards.
 
 ---
 
 ## 📚 Project Overview
 
-- **Source**: Monthly sales CSV files (2019)
+- **Source**: 
 - **ETL Tool**: SQL Server Integration Services (SSIS)
 - **DWH Platform**: SQL Server Management Studio (SSMS)
 - **BI Tool**: Power BI Desktop
