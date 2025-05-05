@@ -6,11 +6,11 @@ This "FCAI | DWH-Course" project demonstrates the end-to-end process of transfor
 
 ## 📚 Project Overview
 
-- **Source**: 
+- **Source**: Monthly sales CSV files (2019)
 - **ETL Tool**: SQL Server Integration Services (SSIS)
 - **DWH Platform**: SQL Server Management Studio (SSMS)
 - **BI Tool**: Power BI Desktop
-- **Goal**: Build a centralized DWH from OLTP files and enable actionable insights for business users
+- **Goal**: Build a centralized DWH from OLTP files and enable actionable insights for business users 
 
 ---
 
@@ -28,8 +28,10 @@ This "FCAI | DWH-Course" project demonstrates the end-to-end process of transfor
 
 ## 🧱 Data Warehouse Design
 
-### 🗂️ Star Schema
+### 📚 KPIs & Beuisness statments
 
+
+### 🗂️ Star Schema
 
 
 ---
